@@ -102,7 +102,7 @@ __Mitteilung:__ Vielen Dank, wir freuen uns auf Ihren Besuch.
 
 ##Examples
 
-* AirLST default template(http://www.bar-reichenbach.de)
+* AirLST default template [request-reply-template.html] (request-reply-template.html)
 
 ##Prerequisites
 
@@ -110,7 +110,7 @@ None, except…
 
 …to use AirLST, sign up for a free test account. You can manage reservations through our app and web backend (paid). Accepting reservations by email is free of charge and will always be.
 
-Details on [www.AirLST.com](http://www.airlst.com/web/reservationbook)
+Details on [www.AirLST.com] (http://www.airlst.com/web/reservationbook)
 
 (English version will be available shortly)
 
