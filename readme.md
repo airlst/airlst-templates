@@ -32,12 +32,19 @@ Use one or several of the following tags to customize your response email.
 
 ####__\*|STATUS|\*__ 
 
-*Description:* Displays a text which indicates if the reservation has been accepted or rejected.
+*Description:* Displays a text which indicates if the reservation has been accepted or rejected. In German, this text will contain a formal address ("Sie").
 
 *Example (if accepted):* Vielen Dank für Ihre Reservierungsanfrage, die wir hiermit gerne bestätigen.
  
 *Example (if rejected):* Vielen Dank für Ihre Reservierungsanfrage, die wir leider nicht bestätigen können.
 
+####__\*|STATUS_DU|\*__ 
+
+*Description:* Displays a text which indicates if the reservation has been accepted or rejected. In German, this text will contain a personal address ("Du").
+
+*Example (if accepted):* Vielen Dank für Deine Reservierungsanfrage, die wir hiermit gerne bestätigen.
+ 
+*Example (if rejected):* Vielen Dank für Deine Reservierungsanfrage, die wir leider nicht bestätigen können.
 
 ####__\*|TIME|\*__ 
 
