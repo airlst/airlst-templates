@@ -125,3 +125,5 @@ Details on [www.AirLST.com] (http://www.airlst.com/web/reservationbook)
 2011-2013 AirLST by LINKS DER ISAR GmbH
 
 All rights reserved. AirLST is a registered trademark of LINKS DER ISAR GmbH.
+
+[LINKS DER ISAR](http://www.linksderisar.com) ist eine [Online Agentur München](http://www.linksderisar.com).
